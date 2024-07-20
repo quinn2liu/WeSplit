@@ -42,5 +42,5 @@ struct ContentViewExamples: View {
 }
 
 #Preview {
-    ContentView()
+    ContentViewExamples()
 }
