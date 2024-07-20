@@ -19,6 +19,7 @@
 		50B884BC2C4B443B009AAD9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		50B884BE2C4B443C009AAD9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50B884C12C4B443C009AAD9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		50B884C82C4B4453009AAD9F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		50B884AE2C4B443B009AAD9F = {
 			isa = PBXGroup;
 			children = (
+				50B884C82C4B4453009AAD9F /* README.md */,
 				50B884B92C4B443B009AAD9F /* WeSplit */,
 				50B884B82C4B443B009AAD9F /* Products */,
 			);
