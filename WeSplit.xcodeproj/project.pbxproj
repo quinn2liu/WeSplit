@@ -11,6 +11,7 @@
 		50B884BD2C4B443B009AAD9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50B884BC2C4B443B009AAD9F /* ContentView.swift */; };
 		50B884BF2C4B443C009AAD9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50B884BE2C4B443C009AAD9F /* Assets.xcassets */; };
 		50B884C22C4B443C009AAD9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50B884C12C4B443C009AAD9F /* Preview Assets.xcassets */; };
+		50B884CA2C4B5BD3009AAD9F /* ContentViewExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50B884C92C4B5BD3009AAD9F /* ContentViewExamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		50B884BE2C4B443C009AAD9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50B884C12C4B443C009AAD9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		50B884C82C4B4453009AAD9F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		50B884C92C4B5BD3009AAD9F /* ContentViewExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewExamples.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				50B884BA2C4B443B009AAD9F /* WeSplitApp.swift */,
 				50B884BC2C4B443B009AAD9F /* ContentView.swift */,
+				50B884C92C4B5BD3009AAD9F /* ContentViewExamples.swift */,
 				50B884BE2C4B443C009AAD9F /* Assets.xcassets */,
 				50B884C02C4B443C009AAD9F /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50B884BD2C4B443B009AAD9F /* ContentView.swift in Sources */,
+				50B884CA2C4B5BD3009AAD9F /* ContentViewExamples.swift in Sources */,
 				50B884BB2C4B443B009AAD9F /* WeSplitApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -8,10 +8,10 @@
 import SwiftUI
 
 struct ContentView: View {
+    // property
+    
     var body: some View {
-        Form {
-            Text("Hello world")
-        }
+        Text("Hello world")
     }
 }
 
